@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="./Assets/hero.gif" width="700" alt="Dipankar Roy - 3D Developer Superhero">
-
 <br><br>
 
 👋 Dipankar Roy
