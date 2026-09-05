@@ -2,20 +2,20 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run.",
   "projects": [
     {
-      "repo": "project-1",
-      "description": "Featured project 1 description. Configure your project repository name and description here."
+      "repo": "ResQnet",
+      "description": "An intelligent disaster-response platform designed to assist emergency teams in locating distress situations, analyzing available information, and supporting safer and faster rescue operations."
     },
     {
-      "repo": "project-2",
-      "description": "Featured project 2 description. Configure your project repository name and description here."
+      "repo": "Code AI",
+      "description": "An AI-powered development assistant designed to help developers generate, understand, improve, and work with code through an interactive coding environment."
     },
     {
-      "repo": "project-3",
-      "description": "Featured project 3 description. Configure your project repository name and description here."
+      "repo": "Visiona",
+      "description": "An AI-powered smart surveillance system that uses computer vision and real-time analysis to detect and monitor potentially important events from visual data."
     },
     {
-      "repo": "project-4",
-      "description": "Featured project 4 description. Configure your project repository name and description here."
+      "repo": "BiasBounty",
+      "description": "An AI-powered platform focused on identifying, analyzing, and highlighting potential bias in AI systems to encourage more transparent and responsible AI development."
     }
   ]
 }

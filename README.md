@@ -138,40 +138,40 @@ Hi, I'm **Dipankar Roy**. I'm a Computer Science student and developer passionat
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/Dipankar-exe/<YOUR_PROJECT_1>">
+  <a href="https://github.com/Dipankar-exe/ResQnet">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="project-1">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ResQnet-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-ResQnet-light.svg">
+      <img src="assets/card-ResQnet-dark.svg" width="420" alt="ResQnet">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/Dipankar-exe/<YOUR_PROJECT_2>">
+  <a href="https://github.com/Dipankar-exe/Code-AI">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="project-2">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Code%20AI-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Code%20AI-light.svg">
+      <img src="assets/card-Code%20AI-dark.svg" width="420" alt="Code AI">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/Dipankar-exe/<YOUR_PROJECT_3>">
+  <a href="https://github.com/Dipankar-exe/Visiona">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="project-3">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Visiona-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Visiona-light.svg">
+      <img src="assets/card-Visiona-dark.svg" width="420" alt="Visiona">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/Dipankar-exe/<YOUR_PROJECT_4>">
+  <a href="https://github.com/Dipankar-exe/BiasBounty">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="project-4">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-BiasBounty-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-BiasBounty-light.svg">
+      <img src="assets/card-BiasBounty-dark.svg" width="420" alt="BiasBounty">
     </picture>
   </a>
 </td>
@@ -182,10 +182,10 @@ Hi, I'm **Dipankar Roy**. I'm a Computer Science student and developer passionat
 
 | project | live | stack |
 |---|---|---|
-| **[project-1](https://github.com/Dipankar-exe/<YOUR_PROJECT_1>)** | `<LIVE_URL>` | `React` `Node.js` |
-| **[project-2](https://github.com/Dipankar-exe/<YOUR_PROJECT_2>)** | `<LIVE_URL>` | `Next.js` `TypeScript` |
-| **[project-3](https://github.com/Dipankar-exe/<YOUR_PROJECT_3>)** | `<LIVE_URL>` | `React Native` |
-| **[project-4](https://github.com/Dipankar-exe/<YOUR_PROJECT_4>)** | `<LIVE_URL>` | `Python` `AI/ML` |
+| **[ResQnet](https://github.com/Dipankar-exe/ResQnet)** | | |
+| **[Code AI](https://github.com/Dipankar-exe/Code-AI)** | | `Node.js` `Express.js` `MySQL` `Puppeteer` `REST API` `Tailwind CSS` `Monaco Editor` |
+| **[Visiona](https://github.com/Dipankar-exe/Visiona)** | | `Python` `OpenCV` `YOLO` `React.js` `Node.js` `MongoDB` `WebSockets` `Ollama` |
+| **[BiasBounty](https://github.com/Dipankar-exe/BiasBounty)** | | |
 
 </sub>
 
