@@ -333,21 +333,33 @@ def main(argv=None):
     by_name = {r["name"].lower(): r for r in repos}
 
     for entry in wanted:
-        src = by_name.get(entry["repo"].lower())
-        if not src:
-            print(f"  !! {entry['repo']} not found on the account, skipped")
-            continue
+        key = entry["repo"].lower()
+        src = (by_name.get(key) or 
+               by_name.get(key.replace(" ", "")) or 
+               by_name.get(key.replace(" ", "-")))
+        card_name = entry["repo"]
+        if src:
+            description = entry.get("description") or src.get("description") or ""
+            language = entry.get("language") or src.get("language") or ""
+            stars = src["stargazers_count"]
+            forks = src["forks_count"]
+        else:
+            description = entry.get("description") or ""
+            language = entry.get("language") or ""
+            stars = entry.get("stars", 0)
+            forks = entry.get("forks", 0)
+
         card = {
-            "name": src["name"],
-            "description": entry.get("description") or src.get("description"),
-            "language": entry.get("language") or src.get("language"),
-            "stars": src["stargazers_count"],
-            "forks": src["forks_count"],
+            "name": card_name,
+            "description": description,
+            "language": language,
+            "stars": stars,
+            "forks": forks,
         }
         for theme in ("dark", "light"):
-            dest = args.out / f"card-{src['name']}-{theme}.svg"
+            dest = args.out / f"card-{card_name}-{theme}.svg"
             dest.write_text(render_repo(card, theme), encoding="utf-8")
-        print(f"wrote card-{src['name']}-*.svg  "
+        print(f"wrote card-{card_name}-*.svg  "
               f"({card['stars']}star {card['forks']}fork {card['language']})")
 
 
