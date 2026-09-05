@@ -45,7 +45,7 @@ Hi, I'm **Dipankar Roy**. I'm a Computer Science student and developer passionat
 
 <div align="center">
 
-![Tech Stack](assets/techstack.png)
+<img src="assets/techstack.png" alt="Tech Stack">
 
 </div>
 
