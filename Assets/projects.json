@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run.",
+  "projects": [
+    {
+      "repo": "project-1",
+      "description": "Featured project 1 description. Configure your project repository name and description here."
+    },
+    {
+      "repo": "project-2",
+      "description": "Featured project 2 description. Configure your project repository name and description here."
+    },
+    {
+      "repo": "project-3",
+      "description": "Featured project 3 description. Configure your project repository name and description here."
+    },
+    {
+      "repo": "project-4",
+      "description": "Featured project 4 description. Configure your project repository name and description here."
+    }
+  ]
+}
