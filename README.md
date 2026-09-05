@@ -45,25 +45,7 @@ Hi, I'm **Dipankar Roy**. I'm a Computer Science student and developer passionat
 
 <div align="center">
 
-## `~/` toolbox
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"> <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react" alt="React" title="React"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"> <img src="https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="48" alt="React Native" title="React Native"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"> <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"> <img src="https://img.shields.io/badge/-REST_API-00599C?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="48" alt="REST API" title="REST API"> <img src="https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48" alt="WebSockets" title="WebSockets">
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"> <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma">
-
-### AI / ML
-<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV"> <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" height="48" alt="YOLO" title="YOLO"> <img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" title="Ollama">
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"> <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" height="48" alt="Puppeteer" title="Puppeteer"> <img src="https://img.shields.io/badge/-Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="48" alt="Monaco Editor" title="Monaco Editor">
+![Tech Stack](assets/techstack.png)
 
 </div>
 
